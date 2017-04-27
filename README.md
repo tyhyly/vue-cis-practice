@@ -1,5 +1,8 @@
-[线上地址](http://panjiachen.github.io/vue-element-admin)
-
+##此项目借来练手vue
+ * 通过原作者缩写系统进行vue相关组件熟悉与改写，希望最终写一套集合了各种表单操作的组件，因为年后至今一直在用vue写移动端，用到了大量表单，同时其他项目中也用到了Echarts，自己写的vue里面和作者一样，也是用的axios，但是移动端的ui用的是mint-ui，希望通过这一套完整的练习和深入vue，在考虑后面练习是否会把UI库换成iView（纯属个人爱好它的样式，不管是不是抄袭的elementUI，开源只为更欢乐），同时也作为鞭策自己的一种方式。
+ 
+* 原作者项目 [线上地址](http://panjiachen.github.io/vue-element-admin)
+* 作者文章链接[vue2+element后台管理集成解决方案](https://segmentfault.com/a/1190000009188689)
 ## 前言
 > 这半年来一直在用vue写管理后台，目前后台已经有七十多个页面，十几种权限，但维护成本依然很低，所以准备开源分享一下后台开发的经验和成果。目前的技术栈主要的采用vue+element+axios.由于是个人项目，所以数据请求都是用了mockjs代替。
 
