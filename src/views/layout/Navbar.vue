@@ -25,7 +25,7 @@
     </el-menu>
 </template>
 
-<script>
+<script type="text/ecmascript-6">
     import { mapGetters } from 'vuex'
     import Levelbar from './Levelbar';
     import Hamburger from 'components/Hamburger';
